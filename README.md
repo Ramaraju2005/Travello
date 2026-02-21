@@ -161,7 +161,7 @@ http://127.0.0.1:8000/admin/
 ---
 ## 📷 Screenshots
 1. Home Page
-![image](https://github.com/user-attachments/assets/17a6d9a8-de9e-459a-8c5b-39d2c789e350)
+![image](Screenshot 2026-02-21 170459.png)
 
 ## 🎯 Learning Outcomes
 
