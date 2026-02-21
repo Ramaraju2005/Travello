@@ -161,7 +161,7 @@ http://127.0.0.1:8000/admin/
 ---
 ## 📷 Screenshots
 1. Home Page
-![image](Screenshot 2026-02-21 170459.png)
+![image](https://github.com/Ramaraju2005/Travello/blob/main/Screenshot%202026-02-21%20170459.png)
 
 ## 🎯 Learning Outcomes
 
