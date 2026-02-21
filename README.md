@@ -1,9 +1,3 @@
-Here’s a clean, professional **README.md** you can use for your GitHub repository for the **Travello** project.
-
-You can copy this directly into your `README.md` file.
-
----
-
 # 🌍 Travello – Travel Booking Web Application
 
 Travello is a dynamic travel destination web application built with Django.
